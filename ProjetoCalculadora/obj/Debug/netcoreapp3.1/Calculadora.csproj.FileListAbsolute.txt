@@ -1,0 +1,13 @@
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache

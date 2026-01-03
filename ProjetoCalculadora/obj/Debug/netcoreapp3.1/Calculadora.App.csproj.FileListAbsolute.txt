@@ -1,0 +1,13 @@
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.App.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.App.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.App.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.App.exe
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.App.deps.json
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.App.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.App.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.App.dll
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\netcoreapp3.1\Calculadora.App.pdb
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.App.dll
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.App.pdb
+C:\Users\rafae\OneDrive\Documentos\1. DIO\.NET\ProjetoCalculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\netcoreapp3.1\Calculadora.App.genruntimeconfig.cache
